@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baluticristi
 - 👀 I’m interested in Automation and Networking.
-- 🌱 I’m currently learning C++,C, Python and Kotlin at university,
+- 🌱 I’m currently learning C++, C, C#, Python and Kotlin at university,
 but I am trying to broaden my horizons when it comes to programming languages I know.
 - 💞️ I’m looking to collaborate on any project that I can help with.
 - 📫 How to reach me? Contact me directly on my email: baluticristi11@gmail.com .
